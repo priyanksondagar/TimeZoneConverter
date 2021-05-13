@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TimeZoneConverter/static/css/main.1f29895d.chunk.css",
+    "main.js": "/TimeZoneConverter/static/js/main.b9890db3.chunk.js",
+    "main.js.map": "/TimeZoneConverter/static/js/main.b9890db3.chunk.js.map",
+    "runtime-main.js": "/TimeZoneConverter/static/js/runtime-main.1c766de0.js",
+    "runtime-main.js.map": "/TimeZoneConverter/static/js/runtime-main.1c766de0.js.map",
+    "static/js/2.7a68c884.chunk.js": "/TimeZoneConverter/static/js/2.7a68c884.chunk.js",
+    "static/js/2.7a68c884.chunk.js.map": "/TimeZoneConverter/static/js/2.7a68c884.chunk.js.map",
+    "index.html": "/TimeZoneConverter/index.html",
+    "static/css/main.1f29895d.chunk.css.map": "/TimeZoneConverter/static/css/main.1f29895d.chunk.css.map",
+    "static/js/2.7a68c884.chunk.js.LICENSE.txt": "/TimeZoneConverter/static/js/2.7a68c884.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c766de0.js",
+    "static/js/2.7a68c884.chunk.js",
+    "static/css/main.1f29895d.chunk.css",
+    "static/js/main.b9890db3.chunk.js"
+  ]
+}
